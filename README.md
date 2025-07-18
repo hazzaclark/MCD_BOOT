@@ -2,13 +2,13 @@
 
 A Generic, all purpose solution to sideloading custom software onto the SEGA MEGA CD
 
-https://github.com/user-attachments/assets/c97e3a47-f151-467a-8652-2447e4b059ec
-
 ## Motive:
 
 This project serves to provide the sole foundation by which developers are able to create software for the MEGA CD
 
 Sideloading your own content onto the console through this bootloader, which houses all of the necessary functionality for getting started
+
+https://github.com/user-attachments/assets/c97e3a47-f151-467a-8652-2447e4b059ec
 
 ## Featuring the following:
 
